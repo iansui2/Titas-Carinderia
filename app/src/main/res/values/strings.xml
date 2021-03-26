@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tita\'s Carinderia</string>
+    <string name="welcome">WELCOME!</string>
+    <string name="time">From 8 AM - 5 PM</string>
+    <string name="operation">OPENING HOURS:</string>
+    <string name="description">Tita\'s Carinderia offers a wide variety of food from pancit to lumpiang shanghai.</string>
+    <string name="city">Quezon City</string>
+    <string name="location">LOCATION:</string>
+    <string name="food_menu">Food Menu Items</string>
+    <string name="pin">Pin Location</string>
+    <string name="timelapse">Opening Hours</string>
+</resources>
